@@ -8,7 +8,7 @@ def calcTotal(amt,tax,name):
 
 myname = 'Johnny'
 price = 1,560
-thetax = 8.25%
+thetax = .0825%
 
 calcTotal(thetax,price,name)
 
